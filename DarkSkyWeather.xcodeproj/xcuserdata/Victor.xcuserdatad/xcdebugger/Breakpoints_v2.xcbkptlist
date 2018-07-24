@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DarkSkyWeather/ViewModel/ViewModel.swift"
+            timestampString = "548825662.856693"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "loadData(city:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DarkSkyWeather.ViewModel.loadData(city: Swift.String, completion: (DarkSkyWeather.BlackSky) -&gt; ()) -&gt; ()"
+                  moduleName = "DarkSkyWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Victor/Documents/GitHub/Batch13/Victor/Week%205/DarkSkyWeather/DarkSkyWeather/ViewModel/ViewModel.swift"
+                  timestampString = "548818125.907791"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (DarkSkyWeather.Constants.DarkSkyApiResponse) -&gt; () in closure #1 (Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DarkSkyWeather.ViewModel.loadData(city: Swift.String, completion: (DarkSkyWeather.BlackSky) -&gt; ()) -&gt; ()"
+                  moduleName = "DarkSkyWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Victor/Documents/GitHub/Batch13/Victor/Week%205/DarkSkyWeather/DarkSkyWeather/ViewModel/ViewModel.swift"
+                  timestampString = "548818125.911032"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DarkSkyWeather/ViewModel/BlackSkyApi.swift"
+            timestampString = "548825662.856818"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "getLocationFromCity(for:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
