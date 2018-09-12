@@ -27,6 +27,8 @@ class ViewController: UIViewController, UISearchBarDelegate {
         super.viewDidLoad()
         viewModel = ViewModel()
         initialSetUp()
+        
+        let frame = CGRect(x: 0, y: 0, width: 0, height: 0)
     }
     
     //MARK: - Setup
