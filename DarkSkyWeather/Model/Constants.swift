@@ -11,6 +11,8 @@ import Foundation
 struct Constants{
     static let darkSkyKey = "d8ea6e5ac150f885c4c691db2e876f60"
     static let darkSkyURL = "https://api.darksky.net/forecast/%@/%@,%@"
+    static let darkSkyURL2 = "https://api.darksky.net/forecast/%@/%@,%@"
+    static let AdarkSkyURL = "https://api.darksky.net/forecast/%@/%@,%@"
     
     enum WeatherTypes: String{
         case clearDay = "clear-day"
